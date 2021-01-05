@@ -176,6 +176,7 @@ body #container section#experience ul {
   margin: 0;
   padding: 1em;
   list-style-type: square;
+  list-style-position: inside;
 }
 
 body #container section#skills {
